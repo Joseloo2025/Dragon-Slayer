@@ -1,0 +1,5 @@
+tengo cuatro imagenes de la habilidad del Corte Veloz para tirar la habilidad en cuatro direccion.
+cuando el personaje mire o camine hacia abajo podria usar la imagen de quick-slash-down
+cuando el personaje mire o camine hacia izquierda podria usar la imagen de  quick-slash-left
+cuando el personaje mire o camine hacia derecha podria usar la imagen de quick-slash-right
+cuando el personaje mire o camine hacia arriba podria usar la imagen de quick-slash-up
